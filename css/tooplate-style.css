@@ -128,7 +128,7 @@ ul.topnav {
 	background-size: cover;
 	width: 100%;
 	background-repeat: no-repeat;
-	height: 550px;
+	height: 500px;
 }
 
 .first-section .text-content {
@@ -140,7 +140,7 @@ ul.topnav {
 }
 
 .first-section .text-content h2 {
-	font-size: 44px;
+	font-size: 38px;
 	text-transform: uppercase;
 	font-weight: 900;
 	letter-spacing: 1px;
