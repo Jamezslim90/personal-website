@@ -68,6 +68,7 @@ ul.topnav {
 	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;
+	font-size: 13px;
   }
   
   ul.topnav li a:hover:not(.active) {
